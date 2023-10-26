@@ -11,7 +11,7 @@ const Features = () => {
       >
         <div className="container">
           <SectionTitle
-            title="What can we offer"
+            title="What we can offer"
             paragraph="Whether you're looking for a stunning web presence or seeking innovative digital solutions, we've got you covered. Our services encompass web design and development, digital marketing, e-commerce solutions, and more."
             center
           />
