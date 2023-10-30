@@ -65,7 +65,7 @@ const Pricing = () => {
         packageName="Basic Plan"
         price={isMonthly ? "399" : "789"}
         duration={isMonthly ? "mo" : "yr"}
-        subtitle="Basic plan is simple and straightforward. They serve as an online brochure for your business, providing essential information. These sites are easy to create and maintain a cost-effective established online presence."
+        subtitle="The Basic plan offers simplicity and directness. It acts as a digital presence for your company, delivering vital details. These platforms are simple to construct and sustain, providing a budget-friendly, established online existence."
       >
         <OfferList text="All UI Components" status="active" />
         <OfferList text="Use with Unlimited Projects" status="inactive" />
@@ -78,7 +78,7 @@ const Pricing = () => {
         packageName="Premium Plan"
         price={isMonthly ? "589" : "999"}
         duration={isMonthly ? "mo" : "yr"}
-        subtitle="Premium Plan is more advanced and captivating. They not only provide information but also allow users to interact with your content. These websites can have features like contact forms, blog sections, and more."
+        subtitle="The Premium Plan is more sophisticated and engaging. It not only imparts information but also enables users to engage with your content. These websites may include elements such as contact forms, blog sections, and more."
       >
         <OfferList text="All UI Components" status="active" />
         <OfferList text="Use with Unlimited Projects" status="active" />

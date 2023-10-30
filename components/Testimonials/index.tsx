@@ -19,7 +19,7 @@ const testimonialData: Testimonial[] = [
     content:
       "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
     image: "/images/logo/logo.png",
-    star: 5,
+    star: 4,
   },
   {
     id: 3,
